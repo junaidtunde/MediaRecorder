@@ -1,0 +1,21 @@
+button {
+    margin: 10px 5px;
+}
+
+li {
+    margin: 10px;
+}
+
+body {
+    width: 90%;
+    max-width: 960px;
+    margin: 0px auto;
+}
+
+#btns {
+    display: none;
+}
+
+h1 {
+    margin-bottom: 100px;
+}
